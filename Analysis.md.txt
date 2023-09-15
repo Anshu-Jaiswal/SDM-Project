@@ -1,0 +1,30 @@
+Software Architecture
+#REQUIREMENT GATHERING
+
+-- Secutiry Module
+- Regular inspection of system
+
+--DATA MODULE
+ Exam data
+ Student data
+ Faculty Data
+ Credential Data
+
+-- LOGIN ID
+Username/PRN no/exam form no. 
+Password
+
+-- CENTRE ID
+- Centre Name 
+-Centre Location
+
+ AUTHENTICATION ID
+- Facial Recognition
+- Admin Panel Login
+- Captcha
+- Eye Recognition
+
+-- FACULTY ID
+
+- Faculty Password
+- Faculty Username
