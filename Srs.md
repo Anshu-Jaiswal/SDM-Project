@@ -1,13 +1,11 @@
 ## Title:
- CDAC Online Assesment Requirement
+ CDAC Online Assessment System
 
 ## Team:
-  Student, CDAC Director, CDAC Staff/Employee, Business Analyst
-  Data Analyst, Research Team
+  Student, CDAC Director, CDAC Staff/Employee,System Administrator,Exam Coordinator,Cdac Central Management.
 
  ## Objective:
-    CDAC online Assesment is a web application
-    Provides an easy platform to conduct online examination  through CDAC. By using this platform students who are intrested to build career in Software Industry they can give the online assesement through this portal.
+    CDAC online Assessment is a web application  provides quick and easy means of      examination. 
 
   ## Scope:
      This system allows CDAC to conduct an Exam online an upload the question paper through their portal.
@@ -15,11 +13,20 @@
      CDAC monitor all process till result declaration.
 
   ## Functional reqirement:
+
+
      Candidate will login to the software and take examination .
-     Questions in the exam will be of objective type with four choices.
-     Exam details like time,no of questions and all required information about exam will be provided through their registered emails.
-     They can also check his/her result after thye completion of examination. 
-     The administrator collects all the results after the succesful completion of examination.
+     Exam details like time,no of questions and all required information about exam will be           provided before exam.Questions in the exam will be of objective type with four choices.
+ Side panel display question through which student can easily navigate to any question.
+     
+Whenever the examination starts a timer facility will be there so that the student can keep the track of time and attend the questions accordingly and when the last 15 minutes are left a message prompt will come there on the screen.
+ Student can also check his/her result after the completion of examination. 
+The portal will be designed in such a manner that the after the start of the examination the student wont have any option to toggle around different windows or apps.
+The administrator collects all the results after the succesful completion of examination.
+
+If the system detects suspicious activity or the use of unauthorized resources, it should automatically terminate the student's exam session.
+The system  support video and audio monitoring of students during the examination.
+The system  automatically generate alerts for activities that may indicate misconduct, such as opening additional browser tabs, copying and pasting text, or unusual mouse and keyboard activity.
 
 ## Non functional requirement:
    ### Security:
