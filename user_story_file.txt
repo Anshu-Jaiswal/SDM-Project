@@ -1,0 +1,8 @@
+1. As a user, I want to choose my own username and password during registration, 
+so that I can personalise my login credentials.
+2. As a user, I want to see user statistics on my dashboard, so that i can monitor
+the platform's usage.
+3. As a user, I should be able to view my weekly performance of the exam.
+4. As a user, I should be able to view my result after the completion of the exam.
+5. As a user, I should be able to view the solutions which are written after 
+every questions.
