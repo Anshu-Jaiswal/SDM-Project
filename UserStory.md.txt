@@ -1,8 +1,8 @@
-1. As a coustmer, I need to see the login page so that we can enter the login credentials.
-2. As a coustmer, I need a forgot password option so that if someone forgot there password he can revive it.
-3. As a coustmer, I need a change password option.
-4. As a coustmer, I want to be able to see the Examination instructions so that I will not face any problem during examination.
-5. As a coustmer, I want a exam timer so that I can finish my exam on time.
+1. As a customer, I need to see the login page so that we can enter the login credentials.
+2. As a customer, I need a forgot password option so that if someone forgot there password he can revive it.
+3. As a customer, I need a change password option.
+4. As a customer, I want to be able to see the Examination instructions so that I will not face any problem during examination.
+5. As a customer, I want a exam timer so that I can finish my exam on time.
 6.As a teacher,I should be able to assign assessments to specific courses or student groups.
 7. As a student,I should have the option to provide feedback or suggestions for system improvements.
 8. As a student, I want the system should auto-save answer to prevent data loss.
