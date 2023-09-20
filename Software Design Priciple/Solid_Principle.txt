@@ -1,0 +1,27 @@
+DRY (Don’t Repeat Yourself) : DRY stands for Don’t Repeat Yourself, it means don’t write the same code repeatedly.
+
+Suppose you are having the same code at many places in your program, then it means you are not following the DRY approach; You are repeating the same code at different places. Hence, the solution is obtained using the DRY concept by placing the methods in place of all repeated codes and defining the code in one method. So by calling methods, we will reach the principle DRY. The DRY concept is very important to make the code better by reducing code redundancy and to encourage its reusability. 
+
+Hollywood Principle :
+
+The Hollywood Principle says, ''Don't call us, we'll call you.
+In the object-oriented world, we allow low-level components to hook themselves into the system with the Hollywood principle. However, the high-level components determine how the low-level systems are needed and when they are needed. In other words, high-level components treat low-level components as Don't call us, we'll call you.
+
+This relates to the Template Method pattern in the sense that it's the high-level abstract class that arranges the steps to define the algorithm. Based on how ...
+
+
+
+
+The SOLID principle helps in reducing tight coupling. Tight coupling means a group of classes are highly dependent on one another which you should avoid in your code. Your code is considered as a good code when it has loosely-coupled classes. Loosely coupled classes minimize changes in your code, helps in making code more reusable, maintainable, flexible and stable. Now let’s discuss one by one these principles.
+
+Single Responsibility :  This principle states that “a class should have only one reason to change” which means every class should have a single responsibility or single job or single purpose. 
+
+Open for Extension, Closed for Modification : Classes should be open for extension but closed for modification. In doing so, we stop ourselves from modifying existing code and causing potential new bugs.
+
+Liskov Substitution :  If class A is a subtype of class B, we should be able to replace B with A without disrupting the behavior of our program.
+
+Interface Segregation : This principle is the first principle that applies to Interfaces instead of classes in SOLID and it is similar to the single responsibility principle. It states that “do not force any client to implement an interface which is irrelevant to them“.
+ Larger interfaces should be split into smaller ones. By doing so, we can ensure that implementing classes only need to be concerned about the methods that are of interest to them.
+
+Dependency Inversion : The principle of dependency inversion refers to the decoupling of software modules. This way, instead of high-level modules depending on low-level modules, both will depend on abstractions.
+
